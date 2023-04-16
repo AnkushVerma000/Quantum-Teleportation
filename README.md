@@ -40,3 +40,8 @@ not same as both have 0.5 percent possibility . Both of the
 electrons are placed in the system where the state of the
 electrons are captured and recorded in the system .
 
+# Electron
+
+<a href="" target="_blank"> <img src=https://github.com/AnkushVerma000/Smart-Blind-Glasses/blob/main/Smart-Glasses-main/Smart-Glasses-main/model%20image.jpeg> </a>
+
+
