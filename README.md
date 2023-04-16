@@ -42,6 +42,6 @@ electrons are captured and recorded in the system .
 
 # Electron
 
-<a href="" target="_blank"> <img src=https://github.com/AnkushVerma000/Smart-Blind-Glasses/blob/main/Smart-Glasses-main/Smart-Glasses-main/model%20image.jpeg> </a>
+<a href="" target="_blank"> <img src=https://github.com/AnkushVerma000/Quantum-Teleportation/blob/main/Screenshot%202023-03-10%20014523.png> </a>
 
 
