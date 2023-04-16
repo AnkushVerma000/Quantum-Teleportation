@@ -48,7 +48,7 @@ electrons are captured and recorded in the system .
 
 <a href="" target="_blank"> <img src=https://github.com/AnkushVerma000/Quantum-Teleportation/blob/main/Screenshot%202023-03-10%20140519.png> </a>
 
-<a href="" target="_blank"> <img src=https://github.com/AnkushVerma000/Quantum-Teleportation/blob/main/Screenshot%202023-03-10%20014523.png> </a>
+<a href="" target="_blank"> <img src=https://github.com/AnkushVerma000/Quantum-Teleportation/blob/main/Screenshot%202023-03-10%20142517.png> </a>
 
 
 
