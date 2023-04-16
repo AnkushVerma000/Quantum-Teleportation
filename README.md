@@ -8,7 +8,8 @@ to communicate between light year distances . We present our
 work here, which is based on a Quantum Entanglement concept
 
 
-#Entangled Electron Protocol
+# Entangled Electron Protocol
+
 We suppose that Alice and Bob are two users with Alice
 being the sender and Bob being the reciever. Alice has the one
 entangled electron in quantum state 1 and Bob has the another
